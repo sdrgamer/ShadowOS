@@ -242,10 +242,3 @@ Recommended:
 **Planned**: Shadow OS 2.0 "Anvil" – Advanced 3D and VR tools
 
 ---
-
-**Want to customize this further?** I can create:
-1. A shorter version for GitHub/GitLab pages
-2. Technical documentation for developers
-3. User manual excerpts
-4. Feature comparison with other distros
-5. Screenshot descriptions
